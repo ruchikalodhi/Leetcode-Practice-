@@ -13,7 +13,7 @@ Given a string containing just the characters '(' and ')', find the length of th
 
 --------------------------------------------------------------------------------------------------------------------
 
-**🚀 Approach (Stack-Based, First Person)**
+**🚀 Approach (Stack-Based)**
 
 ~ I used a stack to store indices of unmatched parentheses.
 
