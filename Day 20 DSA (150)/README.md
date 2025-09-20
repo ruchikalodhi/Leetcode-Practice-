@@ -8,7 +8,7 @@ Language: **C++**
 
 **📄 Problem Description** ~ 
 Given a list of tokens representing a Reverse Polish Notation (RPN) expression, evaluate the expression and return its result.
-RPN (postfix notation) is a mathematical notation in which every operator follows all of its operands.
+RPN (postfix notation) is a mathematical notation in which every operator follows all of its operands
 
 **🚀 Approach (First Person)**
 
